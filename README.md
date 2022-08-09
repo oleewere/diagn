@@ -1,2 +1,2 @@
-# dias
+# diagn
 Diagnostics As A Service
